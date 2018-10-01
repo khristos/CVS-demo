@@ -12880,7 +12880,7 @@ label.panel-block:hover {
 }
 
 .has-text-link-jump::after {
-  content: url("assets/images/caret.svg");
+  content: url("../images/caret.svg");
   font-size: 1rem;
   padding: 3px 4px;
 }
@@ -12893,7 +12893,7 @@ label.panel-block:hover {
 }
 
 .has-attention::before {
-  content: url("assets/images/i-warning-circle.svg");
+  content: url("../images/i-warning-circle.svg");
   font-size: 1rem;
   padding: 3px 4px 3px 0;
 }
